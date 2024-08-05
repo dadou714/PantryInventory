@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Trash directory (macOS specific)
+.Trash/
+
+# IDE and editor files
+.vscode/
+.idlerc/
+.ipython/
+.cache/
+.npm/
+
+# Personal configuration files
+.gitconfig
+.ssh/
+.python_history
+.zprofile
+.zsh_history
+
+# Build and dependency directories
+.m2/
+.mysql_history
+.npm/
+.python_history
+
+# Personal files and temporary directories
+.env
+*.log
+
+
